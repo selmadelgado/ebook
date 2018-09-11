@@ -18,6 +18,7 @@
   "homepage": "https://github.com/selmadelgado/ebook#readme",
   "dependencies": {
     "body": "^5.1.0",
+    "body-parser": "^1.18.3",
     "express": "^4.16.3",
     "express-handlebars": "^3.0.0",
     "parser": "^0.1.4",
